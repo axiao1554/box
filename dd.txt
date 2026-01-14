@@ -1,33 +1,32 @@
 {
   "urls": [
-
     {
       "url": "https://9877.kstore.space/AnotherD/api.json",
-      "name": "鍏紬鍙蜂辅YHY榛戠鎶€"
-    },
-        {
-      "url": "http://tvbox.鐜嬩簩灏忔斁鐗涘▋.top",
-      "name": "鉁笍鐜嬪皬浜岀嚎璺 "
+      "name": "公众号辅YHY黑科技"
     },
     {
-      "url": "http://hb.灏忚檸鏂 .site:25252/浠呬緵娴嬭瘯",
-      "name": "鉁笍灏忚檸鏂戠嚎璺 "
+      "url": "http://tvbox.王小二放牛娃.top",
+      "name": "❤️王小二线路"
+    },
+    {
+      "url": "http://hb.小虎新.site:25252/仅供测试",
+      "name": "❤️小虎新线路"
     },
     {
       "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
-      "name": "鉁笍灏忚嫻鏋滅嚎璺 "
+      "name": "❤️小苹果线路"
     },
     {
-      "url": "http://鎴戜笉鏄 .鎽搁奔鍎 .com",
-      "name": "鉁笍鎽搁奔绾胯矾"
+      "url": "http://我不是.摸鱼儿.com",
+      "name": "❤️摸鱼线路"
     },
     {
-      "url": "http://鑲ョ尗.com",
-      "name": "鉁笍鑲ョ尗绾胯矾"
+      "url": "http://笨猫.com",
+      "name": "❤️笨猫线路"
     },
     {
       "url": "http://tv.nxog.top/m/111.php",
-      "name": "鉁笍璁存瓕绾胯矾"
+      "name": "❤️欧歌线路"
     }
   ]
 }
