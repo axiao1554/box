@@ -2,7 +2,7 @@
   "urls": [
     {
       "url": "https://9877.kstore.space/AnotherD/api.json",
-      "name": "公众号辅YHY黑科技"
+      "name": "YHY黑科技"
     },
     {
       "url": "http://tvbox.王小二放牛娃.top",
@@ -30,3 +30,4 @@
     }
   ]
 }
+
