@@ -5,12 +5,12 @@
       "name": "YHY黑科技"
     },
     {
-      "url": "http://tvbox.王小二放牛娃.top",
+      "url": "http://tvbox.王二小放牛娃.top",
       "name": "❤️王小二线路"
     },
     {
-      "url": "http://hb.小虎新.site:25252/仅供测试",
-      "name": "❤️小虎新线路"
+      "url": "http://hb.小虎斑.site:25252/仅供测试",
+      "name": "❤️小虎斑线路"
     },
     {
       "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
@@ -21,13 +21,10 @@
       "name": "❤️摸鱼线路"
     },
     {
-      "url": "http://笨猫.com",
-      "name": "❤️笨猫线路"
-    },
-    {
-      "url": "http://tv.nxog.top/m/111.php",
-      "name": "❤️欧歌线路"
+      "url": "http://肥猫.com",
+      "name": "❤️肥猫线路"
     }
   ]
 }
+
 
